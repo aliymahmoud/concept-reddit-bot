@@ -1,0 +1,8 @@
+idea title: reddit bot
+idea number: 11
+team members:
+ali mahmoud mohamed abdulhady/ علي محمود محمد عبدالهادي/ 20170334
+ahmed reda ismaiel nesem/ احمد رضا اسماعيل نسيم/ 20170026
+ali ashraf ali mahmoud/ علي اشرف علي محمود/ 20170718
+omar hany ahmed sami/ عمر هاني احمد سامي/ 20170360
+ahmed ismail mohamed elbehery/ احمد اسماعيل محمد البحيري/ 20170670
